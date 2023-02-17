@@ -15,6 +15,7 @@ Hello i am Mathys Le Juez, 23 years old.<br>My main hobby is programming video g
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=le-juez-mathys&theme=onedark&hide_border=true)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=le-juez-mathys&show_icons=true&theme=onedark)
 
 # 🎮 Video Demo Unsuspected:
 <br><br>
