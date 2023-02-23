@@ -18,10 +18,10 @@ Hello i am Mathys Le Juez, 23 years old.<br>My main hobby is programming video g
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=le-juez-mathys&show_icons=true&theme=onedark&hide_border=true)<br/>
 
 
-# 🎮 Video Demo Unsuspected:
+# 🎮 Video Demo Unsuspected (Unreal Engine):
 <br><br>
 [<img src="readme.png" width="60%">](https://www.youtube.com/watch?v=2A5-clmECG4 "Demo Unsuspected")<br/>
-# 🖥 Lien Readme Projet Unsuspected:
+# 🖥 Lien Readme Unsuspected:
 https://github.com/le-juez-mathys/Unsuspected
 
 
