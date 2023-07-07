@@ -14,6 +14,7 @@ Hello i am Mathys Le Juez, 23 years old.<br>My main hobby is programming video g
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![FireBase](https://img.shields.io/badge/FireBase-%23F5792A.svg?style=flat&logo=FireBase&logoColor=white)  ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![InffinityPhoto](https://img.shields.io/badge/AffinityPhoto-%23150458.svg?style=flat&logo=AffinityPhoto&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Conan](https://img.shields.io/badge/Conan-f99CB.svg?style=flat&logo=Conan&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=le-juez-mathys&theme=react&hide_border=true)<br/>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=le-juez-mathys&show_icons=true&theme=react&hide_border=true)<br/>
 
@@ -22,7 +23,7 @@ Hello i am Mathys Le Juez, 23 years old.<br>My main hobby is programming video g
 <br><br>
 [<img src="readme.png" width="60%">](https://www.youtube.com/watch?v=2A5-clmECG4 "Demo Unsuspected")<br/>
 # 🖥 Lien Readme Unsuspected:
-https://github.com/le-juez-mathys/Unsuspected
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=le-juez-mathys&repo=Unsuspected)](https://github.com/le-juez-mathys/Unsuspected)
 
 
 
