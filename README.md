@@ -1,5 +1,8 @@
+<img src="DALLE_2023-10-30_10.43.37_-_Vue_de_Dark_Genius_et_son_armee_dAtlas___Sur_un_champ_de_bataille_Dark_Genius_reconnaissable_par_son_armure_et_son_casque_Sith_mene_une_armee_de_s-2.png" width="100%">
+
+
 # 💫 About Me:
-Hello i am Mathys Le Juez, 23 years old.<br>My main hobby is programming video game and i really love this.<br>At the moment i am in my third year, in informatique programming bachelor to Epitech<br>My other hobbies are:<br>- The programmation in general.<br>- Playing video game.<br>- Motor sport.
+Hello i am Mathys Le Juez {Dark Juezu}, 23 years old.<br>My main hobby is programming video game and i really love this.<br>At the moment i am in my third year, in informatique programming bachelor to Epitech<br>My other hobbies are:<br>- The programmation in general.<br>- Playing video game.<br>- Motor sport.
 
 
 ## 🌐 Socials:
