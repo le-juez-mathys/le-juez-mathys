@@ -2,11 +2,12 @@
 
 
 ## 🧔🏻‍♂️ About Me:
-Hello i am Mathys Le Juez {Dark Juezu}, 23 years old.<br>My main hobby is programming video game and i really love this.<br>At the moment i am in my third year, in informatique programming bachelor to Epitech<br>My other hobbies are:<br>- The programmation in general.<br>- Playing video game.<br>- Motor sport.
+Hello, I am Mathys Le Juez {Dark Juezu}, 24 years old. <br>My main hobby is programming video games, and I really love it. <br>Currently, I am in my fourth year at Epitech Berlin, pursuing a Master's degree in computer programming to obtain a certification in Unreal Engine 3D. <br>My other hobbies include: <br>- Programming in general. <br>- Playing video games. <br>- Motorsports. <br>- Golf.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23D00000.svg?style=for-the-badge&logo=linkedin&logoColor=%2320232a)](https://linkedin.com/in/mathys-le-juez-87701b199)
+[![Instagram](https://img.shields.io/badge/Instagram-%23D00000.svg?style=for-the-badge&logo=instagram&logoColor=%2320232a)](https://www.instagram.com/juezu1999/)
 # 💻 Tech Stack:
 
 - ## 🖥 Core Skills:
@@ -51,12 +52,20 @@ Hello i am Mathys Le Juez {Dark Juezu}, 23 years old.<br>My main hobby is progra
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23D00000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%2320232a)
    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23D00000.svg?style=for-the-badge&logo=visual-studio&logoColor=%2320232a)
 # 🎮 GAME PROJECT:
-- ## Unsuspected (Unreal Engine):
-- ## Escape From The Hell
-   comming soon......
+
+<h1 align="center" style="color: red;"> Escape From The Hell </h1>
+<p align="center">
+   <img  src="logo_EFTH.png" width="60%">
+</p>
+<h2 align="center">comming in 2024 January</h2>
+
+   
 
 <br><br>
-[<img src="readme.png" width="60%">](https://www.youtube.com/watch?v=2A5-clmECG4 "Demo Unsuspected")<br/>
+<h1 align="center"> Unsuspected (Unreal Engine):</h1>
+<p align="center">
+   [<img src="readme.png" width="60%"></p>](https://www.youtube.com/watch?v=2A5-clmECG4 "Demo Unsuspected")
+   <br/>
 # 🖥 Lien Readme Unsuspected:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=le-juez-mathys&repo=Unsuspected)](https://github.com/le-juez-mathys/Unsuspected)
 
