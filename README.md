@@ -58,9 +58,6 @@ Hello, I am Mathys Le Juez {Dark Juezu}, 24 years old. <br>My main hobby is prog
    <img  src="logo_EFTH.png" width="60%">
 </p>
 <h2 align="center">comming in 2024 January</h2>
-
-   
-
 <br><br>
 <h1 align="center"> Unsuspected (Unreal Engine):</h1>
 <p align="center">
