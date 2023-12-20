@@ -51,7 +51,7 @@ Hello, I am Mathys Le Juez {Dark Juezu}, 24 years old. <br>My main hobby is prog
    ![Figma](https://img.shields.io/badge/Figma-%23D00000.svg?style=for-the-badge&logo=Figma&logoColor=%2320232a)
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23D00000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%2320232a)
    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23D00000.svg?style=for-the-badge&logo=visual-studio&logoColor=%2320232a)
-# 🎮 GAME PROJECT:
+# 🎮 GAMES PROJECTS:
 
 <h1 align="center" style="color: red;"> Escape From The Hell </h1>
 <p align="center">
@@ -60,11 +60,7 @@ Hello, I am Mathys Le Juez {Dark Juezu}, 24 years old. <br>My main hobby is prog
 <h2 align="center">comming in 2024 January</h2>
 <br><br>
 <h1 align="center"> Unsuspected (Unreal Engine):</h1>
-<p align="center">
-   [<img src="readme.png" width="60%"></p>](https://www.youtube.com/watch?v=2A5-clmECG4 "Demo Unsuspected")
+
+   [![Logo Epitech](readme.png)](https://www.youtube.com/watch?v=2A5-clmECG4)
+
    <br/>
-# 🖥 Lien Readme Unsuspected:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=le-juez-mathys&repo=Unsuspected)](https://github.com/le-juez-mathys/Unsuspected)
-
-
-
