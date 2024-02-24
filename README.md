@@ -28,7 +28,7 @@ Hello, I am Mathys Le Juez {Dark Juezu}, 24 years old. <br>My main hobby is prog
    ![HTML5](https://img.shields.io/badge/HTML5-%23D00000.svg?style=for-the-badge&logo=HTML5&logoColor=%2320232a)
    ![JavaScript](https://img.shields.io/badge/javascript-%23D00000.svg?style=for-the-badge&logo=javascript&logoColor=%2320232a)
    ![React Native](https://img.shields.io/badge/react_native-%23D00000.svg?style=for-the-badge&logo=react&logoColor=%2320232a)
-   ![FireBase](https://img.shields.io/badge/FireBase-%23D00000.svg?style=for-the-badge&logo=FireBase&logoColor=%2320232a)
+   ![FireBase](https://img.shields.io/badge/react_js-%23D00000.svg?style=for-the-badge&logo=react&logoColor=%2320232a)
    ![Qt](https://img.shields.io/badge/Qt-%23D00000.svg?style=for-the-badge&logo=Qt&logoColor=%2320232a)
    ![Expo](https://img.shields.io/badge/Expo-%23D00000.svg?style=for-the-badge&logo=Expo&logoColor=%2320232a)
    ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-%23D00000.svg?style=for-the-badge&logo=Gimp&logoColor=%2320232a)
