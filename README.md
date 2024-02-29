@@ -20,7 +20,7 @@ Hello, I am Mathys Le Juez {Dark Juezu}, 24 years old. <br>My main hobby is prog
    ![Unreal Engine](https://img.shields.io/badge/blueprint-%23D00000.svg?style=for-the-badge&logo=blueprint&logoColor=%2320232a)
   
 - ## 🖥 Additional Skills
--  ![Lua](https://img.shields.io/badge/lua-%23D00000.svg?style=for-the-badge&logo=lua&logoColor=%2320232a)
+   ![Lua](https://img.shields.io/badge/lua-%23D00000.svg?style=for-the-badge&logo=lua&logoColor=%2320232a)
    ![Fivem](https://img.shields.io/badge/Fivem-%23D00000.svg?style=for-the-badge&logo=Fivem&logoColor=%2320232a)
    ![Github](https://img.shields.io/badge/Github-%23D00000.svg?style=for-the-badge&logo=Github&logoColor=%2320232a)
    ![Perfoce](https://img.shields.io/badge/Perforce-%23D00000.svg?style=for-the-badge&logo=Perforce&logoColor=%2320232a)
