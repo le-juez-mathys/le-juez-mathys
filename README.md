@@ -7,7 +7,6 @@ Hello, I am Mathys Le Juez {Dark Juezu}, 24 years old. <br>My main hobby is prog
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23D00000.svg?style=for-the-badge&logo=linkedin&logoColor=%2320232a)](https://linkedin.com/in/mathys-le-juez-87701b199)
-[![Instagram](https://img.shields.io/badge/Instagram-%23D00000.svg?style=for-the-badge&logo=instagram&logoColor=%2320232a)](https://www.instagram.com/juezu1999/)
 # 💻 Tech Stack:
 
 - ## 🖥 Core Skills:
