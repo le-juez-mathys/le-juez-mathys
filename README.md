@@ -2,7 +2,7 @@
 
 
 ## 🧔🏻‍♂️ About Me:
-Hello, I am Mathys Le Juez {Dark Juezu}, 24 years old. <br>My main hobby is programming video games, and I really love it. <br>Currently, I am in my fourth year at Epitech Berlin, pursuing a Master's degree in computer programming to obtain a certification in Unreal Engine 3D. <br>My other hobbies include: <br>- Programming in general. <br>- Playing video games. <br>- Motorsports. <br>- Golf.
+Hello, I am Mathys Le Juez {Dark Juezu}, 24 years old. <br>My main hobby is programming video games, and I really love it. <br>Graduate of a Master 2 degree at Epitech, specializing in video game development, with a certification in video game development <br>My other hobbies include: <br>- Programming in general. <br>- Playing video games. <br>- Motorsports. <br>- Golf.
 
 
 ## 🌐 Socials:
