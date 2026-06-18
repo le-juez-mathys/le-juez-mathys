@@ -1,40 +1,8 @@
 <!-- ================================================================
      README PROFIL PERSONNEL GITHUB
      Design aligné sur le studio (palette magenta/violet/orange)
-     
-     MODIFIER les points marqués pour personnaliser
-     ================================================================ -->
-
-<!-- ======================== BANNER ======================== -->
-<!-- MODIFIER : Remplace par le lien raw une fois pushé -->
-
-<p align="center">
-  <img src="banner-perso.svg" alt="Mathys Le Juez" width="100%" />
-</p>
-
-<br/>
-
 <!-- ======================== LIENS RAPIDES ======================== -->
 
-<p align="center">
-  <!-- MODIFIER : Liens — remplace les # -->
-  <a href="https://linkedin.com/in/mathys-le-juez-87701b199">
-    <img src="https://img.shields.io/badge/LinkedIn-0a0a0c?style=for-the-badge&logo=linkedin&logoColor=b14bff" />
-  </a>&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-0a0a0c?style=for-the-badge&logo=googlechrome&logoColor=ff2e7e" />
-  </a>&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-0a0a0c?style=for-the-badge&logo=discord&logoColor=ff7a3c" />
-  </a>&nbsp;
-  <a href="mailto:hello@studio.com">
-    <img src="https://img.shields.io/badge/Email-0a0a0c?style=for-the-badge&logo=gmail&logoColor=b14bff" />
-  </a>
-</p>
-
-<br/>
-
----
 
 ## 🧔🏻‍♂️ À propos
 
@@ -51,8 +19,11 @@
 
 <!-- MODIFIER : Lien vers l'org du studio -->
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/🎮_Mon_studio_→_STUDIO-0a0a0c?style=for-the-badge&labelColor=0a0a0c" />
+  <a href="https://github.com/Derklan">
+    <img src="https://img.shields.io/badge/🎮_Mon_studio_→_DERKLAN STUDIO_-0a0a0c?style=for-the-badge&labelColor=0a0a0c" />
+  </a>
+     <a href="https://linkedin.com/in/mathys-le-juez-87701b199">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0c?style=for-the-badge&logo=linkedin&logoColor=b14bff" />
   </a>
 </p>
 
