@@ -1,64 +1,196 @@
-<img src="baniére.webp" width="100%">
+<!-- ================================================================
+     README PROFIL PERSONNEL GITHUB
+     Design aligné sur le studio (palette magenta/violet/orange)
+     
+     MODIFIER les points marqués pour personnaliser
+     ================================================================ -->
 
+<!-- ======================== BANNER ======================== -->
+<!-- MODIFIER : Remplace par le lien raw une fois pushé -->
 
-## 🧔🏻‍♂️ About Me:
-Hello, I am Mathys Le Juez {Dark Juezu}, 24 years old. <br>My main hobby is programming video games, and I really love it. <br>Graduate of a Master 2 degree at Epitech, specializing in video game development, with a certification in video game development <br>My other hobbies include: <br>- Programming in general. <br>- Playing video games. <br>- Motorsports. <br>- Golf.
+<p align="center">
+  <img src="banner-perso.svg" alt="Mathys Le Juez" width="100%" />
+</p>
 
+<br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23D00000.svg?style=for-the-badge&logo=linkedin&logoColor=%2320232a)](https://linkedin.com/in/mathys-le-juez-87701b199)
-# 💻 Tech Stack:
+<!-- ======================== LIENS RAPIDES ======================== -->
 
-- ## 🖥 Core Skills:
-   ![C](https://img.shields.io/badge/c-%23D00000.svg?style=for-the-badge&logo=c&logoColor=%2320232a)
-   ![C#](https://img.shields.io/badge/c%23-%23D00000.svg?style=for-the-badge&logo=c-sharp&logoColor=%2320232a)
-   ![C++](https://img.shields.io/badge/cpp-%23D00000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2320232a)
-   ![Python](https://img.shields.io/badge/python-%23D00000?style=for-the-badge&logo=python&logoColor=%2320232a)
-   ![Unity](https://img.shields.io/badge/unity-%23D00000.svg?style=for-the-badge&logo=unity&logoColor=%2320232a)
-   ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23D00000.svg?style=for-the-badge&logo=unrealengine&logoColor=%2320232a)
-   ![Unreal Engine](https://img.shields.io/badge/blueprint-%23D00000.svg?style=for-the-badge&logo=blueprint&logoColor=%2320232a)
-  
-- ## 🖥 Additional Skills
-   ![Lua](https://img.shields.io/badge/lua-%23D00000.svg?style=for-the-badge&logo=lua&logoColor=%2320232a)
-   ![Fivem](https://img.shields.io/badge/Fivem-%23D00000.svg?style=for-the-badge&logo=Fivem&logoColor=%2320232a)
-   ![Github](https://img.shields.io/badge/Github-%23D00000.svg?style=for-the-badge&logo=Github&logoColor=%2320232a)
-   ![Perfoce](https://img.shields.io/badge/Perforce-%23D00000.svg?style=for-the-badge&logo=Perforce&logoColor=%2320232a)
-   ![CSS3](https://img.shields.io/badge/css3-%23D00000.svg?style=for-the-badge&logo=css3&logoColor=%2320232a)
-   ![HTML5](https://img.shields.io/badge/HTML5-%23D00000.svg?style=for-the-badge&logo=HTML5&logoColor=%2320232a)
-   ![JavaScript](https://img.shields.io/badge/javascript-%23D00000.svg?style=for-the-badge&logo=javascript&logoColor=%2320232a)
-   ![React Native](https://img.shields.io/badge/react_native-%23D00000.svg?style=for-the-badge&logo=react&logoColor=%2320232a)
-   ![FireBase](https://img.shields.io/badge/react_js-%23D00000.svg?style=for-the-badge&logo=react&logoColor=%2320232a)
-   ![Qt](https://img.shields.io/badge/Qt-%23D00000.svg?style=for-the-badge&logo=Qt&logoColor=%2320232a)
-   ![Expo](https://img.shields.io/badge/Expo-%23D00000.svg?style=for-the-badge&logo=Expo&logoColor=%2320232a)
-   ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-%23D00000.svg?style=for-the-badge&logo=Gimp&logoColor=%2320232a)
-   ![NumPy](https://img.shields.io/badge/numpy-%23D00000.svg?style=for-the-badge&logo=numpy&logoColor=%2320232a)
-   ![Pandas](https://img.shields.io/badge/pandas-%23D00000.svg?style=for-the-badge&logo=pandas&logoColor=%2320232a)
-   ![CMake](https://img.shields.io/badge/CMake-%23D00000.svg?style=for-the-badge&logo=cmake&logoColor=%2320232a)
-   ![Docker](https://img.shields.io/badge/docker-%23D00000.svg?style=for-the-badge&logo=docker&logoColor=%2320232a)
-   ![Conan](https://img.shields.io/badge/Conan-%23D00000.svg?style=for-the-badge&logo=Conan&logoColor=%2320232a)
-   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-%23D00000.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=%2320232a)
-   ![Trello](https://img.shields.io/badge/Trello-%23D00000.svg?style=for-the-badge&logo=Trello&logoColor=%2320232a)
-   
-- ## 🖥 Software:
-   ![CLion](https://img.shields.io/badge/CLion-%23D00000.svg?style=for-the-badge&logo=CLion&logoColor=%2320232a)
-   ![PyCharm](https://img.shields.io/badge/PyCharm-%23D00000.svg?style=for-the-badge&logo=PyCharm&logoColor=%2320232a)
-   ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-%23D00000.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=%2320232a)
-   ![WebStorm](https://img.shields.io/badge/WebStorm-%23D00000.svg?style=for-the-badge&logo=WebStorm&logoColor=%2320232a)
-   ![Rider](https://img.shields.io/badge/Rider-%23D00000.svg?style=for-the-badge&logo=Rider&logoColor=%2320232a)
-   ![InffinityPhoto](https://img.shields.io/badge/affinityphoto-%23D00000.svg?style=for-the-badge&logo=affinityphoto&logoColor=%2320232a)
-   ![Canva](https://img.shields.io/badge/Canva-%23D00000.svg?style=for-the-badge&logo=Canva&logoColor=%2320232a)
-   ![Figma](https://img.shields.io/badge/Figma-%23D00000.svg?style=for-the-badge&logo=Figma&logoColor=%2320232a)
-   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23D00000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%2320232a)
-   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23D00000.svg?style=for-the-badge&logo=visual-studio&logoColor=%2320232a)
-# 🎮 GAMES PROJECTS:
+<p align="center">
+  <!-- MODIFIER : Liens — remplace les # -->
+  <a href="https://linkedin.com/in/mathys-le-juez-87701b199">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0c?style=for-the-badge&logo=linkedin&logoColor=b14bff" />
+  </a>&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-0a0a0c?style=for-the-badge&logo=googlechrome&logoColor=ff2e7e" />
+  </a>&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-0a0a0c?style=for-the-badge&logo=discord&logoColor=ff7a3c" />
+  </a>&nbsp;
+  <a href="mailto:hello@studio.com">
+    <img src="https://img.shields.io/badge/Email-0a0a0c?style=for-the-badge&logo=gmail&logoColor=b14bff" />
+  </a>
+</p>
 
-<h1 align="center" style="color: red;"> Constantine Quest </h1>
+<br/>
 
-   [![Logo EFTH](Logo_C_Q.webp)](https://youtu.be/tWFvct_Q3ZQ)
+---
 
-<br><br>
-<h1 align="center"> Unsuspected (Unreal Engine):</h1>
+## 🧔🏻‍♂️ À propos
 
-   [![Logo Epitech](readme.png)](https://www.youtube.com/watch?v=2A5-clmECG4)
+<!-- MODIFIER : Bio -->
+> **Mathys Le Juez** · 24 ans · alias **Dark Juezu**
+>
+> Co-founder & CEO de **DERKLAN-STUDIO** — studio de jeux indépendant.
+> Diplômé Master 2 à Epitech expert en ingénierie logicielle, spécialisé en développement de jeux vidéo et de simulation militaire.
+> Passionné par la création de jeux video.
+>
+> Quand je code pas, je joue.
 
-   <br/>
+<br/>
+
+<!-- MODIFIER : Lien vers l'org du studio -->
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🎮_Mon_studio_→_STUDIO-0a0a0c?style=for-the-badge&labelColor=0a0a0c" />
+  </a>
+</p>
+
+---
+
+## 💻 Stack technique
+
+### ⚡ Core
+
+<p>
+  <img src="https://img.shields.io/badge/C-0a0a0c?style=for-the-badge&logo=c&logoColor=ff2e7e" />
+  <img src="https://img.shields.io/badge/C%23-0a0a0c?style=for-the-badge&logo=csharp&logoColor=b14bff" />
+  <img src="https://img.shields.io/badge/C++-0a0a0c?style=for-the-badge&logo=cplusplus&logoColor=ff7a3c" />
+  <img src="https://img.shields.io/badge/Python-0a0a0c?style=for-the-badge&logo=python&logoColor=b14bff" />
+  <img src="https://img.shields.io/badge/Unity-0a0a0c?style=for-the-badge&logo=unity&logoColor=ff2e7e" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-0a0a0c?style=for-the-badge&logo=unrealengine&logoColor=ff7a3c" />
+  <img src="https://img.shields.io/badge/Blueprint-0a0a0c?style=for-the-badge&logo=unrealengine&logoColor=b14bff" />
+</p>
+
+### 🔧 Compétences additionnelles
+
+<p>
+  <img src="https://img.shields.io/badge/Lua-0a0a0c?style=flat-square&logo=lua&logoColor=b14bff" />
+  <img src="https://img.shields.io/badge/FiveM-0a0a0c?style=flat-square&logo=fivem&logoColor=ff7a3c" />
+  <img src="https://img.shields.io/badge/JavaScript-0a0a0c?style=flat-square&logo=javascript&logoColor=ff2e7e" />
+  <img src="https://img.shields.io/badge/HTML5-0a0a0c?style=flat-square&logo=html5&logoColor=ff7a3c" />
+  <img src="https://img.shields.io/badge/CSS3-0a0a0c?style=flat-square&logo=css3&logoColor=b14bff" />
+  <img src="https://img.shields.io/badge/React_Native-0a0a0c?style=flat-square&logo=react&logoColor=ff2e7e" />
+  <img src="https://img.shields.io/badge/Firebase-0a0a0c?style=flat-square&logo=firebase&logoColor=ff7a3c" />
+  <img src="https://img.shields.io/badge/Qt-0a0a0c?style=flat-square&logo=qt&logoColor=b14bff" />
+  <img src="https://img.shields.io/badge/Expo-0a0a0c?style=flat-square&logo=expo&logoColor=ff2e7e" />
+  <img src="https://img.shields.io/badge/NumPy-0a0a0c?style=flat-square&logo=numpy&logoColor=b14bff" />
+  <img src="https://img.shields.io/badge/Pandas-0a0a0c?style=flat-square&logo=pandas&logoColor=ff7a3c" />
+  <img src="https://img.shields.io/badge/CMake-0a0a0c?style=flat-square&logo=cmake&logoColor=ff2e7e" />
+  <img src="https://img.shields.io/badge/Docker-0a0a0c?style=flat-square&logo=docker&logoColor=b14bff" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-0a0a0c?style=flat-square&logo=raspberrypi&logoColor=ff2e7e" />
+</p>
+
+### 🔀 Versioning & gestion
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub-0a0a0c?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perforce-0a0a0c?style=flat-square&logo=perforce&logoColor=b14bff" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0a0a0c?style=flat-square&logo=githubactions&logoColor=ff7a3c" />
+  <img src="https://img.shields.io/badge/Trello-0a0a0c?style=flat-square&logo=trello&logoColor=ff2e7e" />
+</p>
+
+### 🖥 IDE & outils
+
+<p>
+  <img src="https://img.shields.io/badge/Rider-0a0a0c?style=flat-square&logo=rider&logoColor=ff2e7e" />
+  <img src="https://img.shields.io/badge/CLion-0a0a0c?style=flat-square&logo=clion&logoColor=b14bff" />
+  <img src="https://img.shields.io/badge/PyCharm-0a0a0c?style=flat-square&logo=pycharm&logoColor=ff7a3c" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-0a0a0c?style=flat-square&logo=intellijidea&logoColor=ff2e7e" />
+  <img src="https://img.shields.io/badge/WebStorm-0a0a0c?style=flat-square&logo=webstorm&logoColor=b14bff" />
+  <img src="https://img.shields.io/badge/VS_Code-0a0a0c?style=flat-square&logo=visualstudiocode&logoColor=ff7a3c" />
+  <img src="https://img.shields.io/badge/Visual_Studio-0a0a0c?style=flat-square&logo=visualstudio&logoColor=b14bff" />
+  <img src="https://img.shields.io/badge/Figma-0a0a0c?style=flat-square&logo=figma&logoColor=ff2e7e" />
+  <img src="https://img.shields.io/badge/Canva-0a0a0c?style=flat-square&logo=canva&logoColor=ff7a3c" />
+  <img src="https://img.shields.io/badge/Affinity_Photo-0a0a0c?style=flat-square&logo=affinityphoto&logoColor=b14bff" />
+  <img src="https://img.shields.io/badge/GIMP-0a0a0c?style=flat-square&logo=gimp&logoColor=ff2e7e" />
+</p>
+
+---
+
+## 🎮 Projets de jeux
+ 
+<!-- Galerie horizontale — les images sont cliquables (→ trailer YouTube) -->
+<!-- MODIFIER : Liens vidéo, images, noms, descriptions -->
+<!-- AJOUTER : Copie un <td> pour ajouter un projet -->
+ 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/tWFvct_Q3ZQ">
+        <img src="Logo_C_Q.webp" width="360" />
+      </a>
+      <br/><br/>
+      <strong>Constantine Quest</strong>
+      <br/>
+      <sub>Action · Aventure</sub>
+      <br/><br/>
+      <a href="https://youtu.be/tWFvct_Q3ZQ">
+        <img src="https://img.shields.io/badge/▶_Voir_le_trailer-0a0a0c?style=flat-square&logoColor=ff2e7e" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.youtube.com/watch?v=2A5-clmECG4">
+        <img src="readme.png" width="360" />
+      </a>
+      <br/><br/>
+      <strong>Unsuspected</strong>
+      <br/>
+      <sub>Unreal Engine</sub>
+      <br/><br/>
+      <a href="https://www.youtube.com/watch?v=2A5-clmECG4">
+        <img src="https://img.shields.io/badge/▶_Voir_le_trailer-0a0a0c?style=flat-square&logoColor=ff7a3c" />
+      </a>
+    </td>
+  </tr>
+</table>
+---
+## ⚡ Centres d'intérêt
+
+| | |
+|---|---|
+| 🎮 | Jeux vidéo — jouer & créer |
+| 💻 | Programmation en général |
+
+---
+
+## 📊 Stats GitHub
+
+<!-- Les stats utilisent les couleurs du studio -->
+
+<p align="center">
+  <!-- MODIFIER : Remplace "DarkJuezu" par ton username GitHub réel -->
+  <img src="https://github-readme-stats.vercel.app/api?username=le-juez-mathys&show_icons=true&bg_color=0a0a0c&title_color=b14bff&text_color=f4f4f6&icon_color=ff2e7e&border_color=1a1a20&hide_border=false" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=le-juez-mathys&layout=compact&langs_count=6&hide=html,css,javascript,typescript,lua,shell,dockerfile,makefile,cmake,glsl,hlsl,shaderlab&bg_color=0a0a0c&title_color=b14bff&text_color=f4f4f6&border_color=1a1a20&hide_border=false" width="51%" />
+</p>
+
+<!-- MODIFIER : Streak stats — remplace "DarkJuezu" -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=le-juez-mathys&background=0a0a0c&ring=b14bff&fire=ff2e7e&currStreakLabel=f4f4f6&sideLabels=f4f4f6&sideNums=ff7a3c&currStreakNum=ff7a3c&dates=5a5a62&border=1a1a20" width="52%" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Des Jeux Fait Avec Passion</strong>
+  <br/><br/>
+  <!-- MODIFIER : Lien vers l'org -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/→_STUDIO-b14bff?style=for-the-badge&labelColor=0a0a0c" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>© 2024 — Mathys Le Juez · Dark Juezu</sub>
+</p>
