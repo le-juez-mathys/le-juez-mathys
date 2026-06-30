@@ -7,7 +7,7 @@
 ## 🧔🏻‍♂️ À propos
 
 <!-- MODIFIER : Bio -->
-> **Mathys Le Juez** · 24 ans · alias **Dark Juezu**
+> **Mathys Le Juez** · 26 ans · alias **Dark Juezu**
 >
 > Co-founder & CEO de **DERKLAN-STUDIO** — studio de jeux indépendant.
 > Diplômé Master 2 à Epitech expert en ingénierie logicielle, spécialisé en développement de jeux vidéo et de simulation militaire.
@@ -28,7 +28,33 @@
 </p>
 
 ---
+⚙️ Compétences — barres d'expérience
 
+<!-- Barres en blocs unicode rendues via shields.io (100% fiable, pas de service tiers fragile) -->
+<table>
+  <tr>
+    <td width="280"><sub><strong>Unreal Engine / C++</strong> — gameplay & IA</sub></td>
+    <td><img src="https://img.shields.io/badge/92%25-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1-0b100d?style=flat-square&labelColor=0e1612&color=4dff8e" /></td>
+  </tr>
+  <tr>
+    <td><sub><strong>Unity 3D / C#</strong></sub></td>
+    <td><img src="https://img.shields.io/badge/88%25-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1-0b100d?style=flat-square&labelColor=0e1612&color=5ad1ff" /></td>
+  </tr>
+  <tr>
+    <td><sub><strong>Réalité virtuelle</strong> (Vive / Quest)</sub></td>
+    <td><img src="https://img.shields.io/badge/81%25-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1-0b100d?style=flat-square&labelColor=0e1612&color=4dff8e" /></td>
+  </tr>
+  <tr>
+    <td><sub><strong>Lua / FiveM</strong></sub></td>
+    <td><img src="https://img.shields.io/badge/75%25-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1-0b100d?style=flat-square&labelColor=0e1612&color=5ad1ff" /></td>
+  </tr>
+  <tr>
+    <td><sub><strong>Python / Data</strong> (NumPy, Pandas)</sub></td>
+    <td><img src="https://img.shields.io/badge/68%25-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1-0b100d?style=flat-square&labelColor=0e1612&color=4dff8e" /></td>
+  </tr>
+</table>
+
+---
 ## 💻 Stack technique
 
 ### ⚡ Core
@@ -163,5 +189,5 @@
 </p>
 
 <p align="center">
-  <sub>© 2024 — Mathys Le Juez · Dark Juezu</sub>
+  <sub>© 2026 — Mathys Le Juez · Dark Juezu</sub>
 </p>
