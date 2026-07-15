@@ -5,9 +5,9 @@
      ================================================================ -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ENGINE-UNREAL_5-0b100d?style=flat-square&labelColor=0e1612&color=5ad1ff" />
-  <img src="https://img.shields.io/badge/XP-C%2B%2B_%2F_C%23-0b100d?style=flat-square&labelColor=0e1612&color=5ad1ff" />
-  <img src="https://img.shields.io/badge/UPTIME-6_ANS-0b100d?style=flat-square&labelColor=0e1612&color=5ad1ff" />
+  <img src="https://img.shields.io/badge/ENGINE-UNREAL_ENGINE/UNITY-0b100d?style=flat-square&labelColor=0e1612&color=5ad1ff" />
+  <img src="https://img.shields.io/badge/XP-C%2B%2B_%2F_C%23_/BLUEPRINT-0b100d?style=flat-square&labelColor=0e1612&color=5ad1ff" />
+  <img src="https://img.shields.io/badge/UPTIME-2_ANS-0b100d?style=flat-square&labelColor=0e1612&color=5ad1ff" />
   <img src="https://img.shields.io/badge/STATUS-EN_LIGNE-0b100d?style=flat-square&labelColor=0e1612&color=4dff8e" />
 </p>
 
@@ -19,6 +19,8 @@
   <a href="https://linkedin.com/in/mathys-le-juez-87701b199">
     <img src="https://img.shields.io/badge/LinkedIn-0b100d?style=for-the-badge&logo=linkedin&logoColor=5ad1ff&labelColor=0b100d" />
   </a>
+      <a href="https://le-juez-mathys.github.io/index.html">
+    <img src="https://img.shields.io/badge/→Mon_Site-4dff8e?style=for-the-badge&labelColor=0b100d" />
 </p>
 
 ---
@@ -27,7 +29,7 @@
 
 > **[ FICHIER DE SAUVEGARDE CHARGÉ ]**
 >
-> **Mathys Le Juez** · alias **Dark Juezu** · 26 ans
+> **Mathys Le Juez** · 26 ans
 > `LVL 26 — Co-founder & CEO, DERKLAN-STUDIO`
 >
 > Diplômé Master 2 à Epitech, expert en ingénierie logicielle, spécialisé en développement de jeux vidéo et de simulation militaire.
