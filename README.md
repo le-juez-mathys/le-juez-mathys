@@ -66,6 +66,10 @@
   </tr>
 </table>
 
+<a href="https://github.com/le-juez-mathys/dossier-de-competences">
+    <img src="https://img.shields.io/badge/Dossier de competences-0b100d?style=for-the-badge&labelColor=0b100d&color=4dff8e" />
+  </a>
+
 ---
 
 ## 🧩 Stack technique
