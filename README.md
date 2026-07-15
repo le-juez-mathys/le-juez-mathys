@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0b100d?style=for-the-badge&logo=linkedin&logoColor=5ad1ff&labelColor=0b100d" />
   </a>
       <a href="https://le-juez-mathys.github.io/index.html">
-    <img src="https://img.shields.io/badge/→Mon_Site-4dff8e?style=for-the-badge&labelColor=0b100d" />
+    <img src="https://img.shields.io/badge/Mon_Site-4dff8e?style=for-the-badge&labelColor=0b100d" />
 </p>
 
 ---
@@ -202,5 +202,5 @@
 </p>
 
 <p align="center">
-  <sub>© 2026 — Mathys Le Juez · Dark Juezu</sub>
+  <sub>© 2026 — Mathys Le Juez · Yetsu</sub>
 </p>
