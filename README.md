@@ -36,7 +36,7 @@
 > Passionné par la création de jeux vidéo.
 >
 > `> quand je code pas, je joue.`
-
+![Visiteurs](https://komarev.com/ghpvc/?username=le-juez-mathys&label=Vues%20du%20profil&color=brightgreen&style=flat-square)
 ---
 
 ## ⚙️ Compétences — barres d'expérience
