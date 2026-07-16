@@ -35,8 +35,8 @@
 > Diplômé Master 2 à Epitech, expert en ingénierie logicielle, spécialisé en développement de jeux vidéo et de simulation militaire.
 > Passionné par la création de jeux vidéo.
 >
-> `> quand je code pas, je joue.`
-![Visiteurs](https://komarev.com/ghpvc/?username=le-juez-mathys&label=Vues%20du%20profil&color=brightgreen&style=flat-square)
+> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=%3E+quand+je+code+pas%2C+je+joue.)](https://git.io/typing-svg)
+>![Visiteurs](https://komarev.com/ghpvc/?username=le-juez-mathys&label=Vues%20du%20profil&color=brightgreen&style=flat-square)
 ---
 
 ## ⚙️ Compétences — barres d'expérience
@@ -184,14 +184,17 @@
 
 ---
 
+## Musique
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nq2xrb73yv5tnbhwtckfdp763y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+
 ## 📊 Stats GitHub
 
 <!-- Les stats utilisent les couleurs du dashboard : fond #0b100d, accent vert #4dff8e, cyan #5ad1ff -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=le-juez-mathys&background=0b100d&ring=4dff8e&fire=5ad1ff&currStreakLabel=e4f0e6&sideLabels=e4f0e6&sideNums=5ad1ff&currStreakNum=5ad1ff&dates=4a6b54&border=1e3324" width="52%" />
-     ![Snake](https://raw.githubusercontent.com/le-juez-mathys
-/le-juez-mathys
-/output/github-contribution-grid-snake.svg)
+   ![Snake](https://raw.githubusercontent.com/le-juez-mathys/le-juez-mathys/output/github-contribution-grid-snake.svg)
+
+
 </p>
 
 ---
