@@ -189,6 +189,9 @@
 <!-- Les stats utilisent les couleurs du dashboard : fond #0b100d, accent vert #4dff8e, cyan #5ad1ff -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=le-juez-mathys&background=0b100d&ring=4dff8e&fire=5ad1ff&currStreakLabel=e4f0e6&sideLabels=e4f0e6&sideNums=5ad1ff&currStreakNum=5ad1ff&dates=4a6b54&border=1e3324" width="52%" />
+     ![Snake](https://raw.githubusercontent.com/le-juez-mathys
+/le-juez-mathys
+/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
