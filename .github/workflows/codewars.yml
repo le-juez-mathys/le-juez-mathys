@@ -1,38 +1,79 @@
 name: Mise à jour Codewars
-
+ 
 on:
   schedule:
     - cron: "0 6 * * *"   # tous les jours à 6h (UTC)
   workflow_dispatch:       # bouton "Run workflow" pour lancer à la main
-
+ 
 permissions:
   contents: write
-
+ 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Récupérer les katas et mettre à jour le README
+ 
+      - name: Récupérer les données Codewars et mettre à jour le README
         run: |
           python3 - <<'EOF'
-          import json, re, urllib.request
-
+          import json, re, urllib.request, urllib.parse
+ 
           USER = "le-juez-mathys"
           MAX_KATAS = 10
           API = "https://www.codewars.com/api/v1"
           NOMS = {"cpp": "C++", "c": "C", "python": "Python",
                   "javascript": "JavaScript", "csharp": "C#", "rust": "Rust"}
-
+ 
+          # Points de rang nécessaires pour atteindre chaque niveau
+          PALIERS = [("8 kyu", 0), ("7 kyu", 20), ("6 kyu", 76), ("5 kyu", 229),
+                     ("4 kyu", 643), ("3 kyu", 1768), ("2 kyu", 4829),
+                     ("1 kyu", 13147), ("1 dan", 35759), ("2 dan", 97583)]
+ 
           def get(url):
               req = urllib.request.Request(url, headers={"User-Agent": "readme-bot"})
               with urllib.request.urlopen(req) as r:
                   return json.load(r)
-
-          katas = get(f"{API}/users/{USER}/code-challenges/completed?page=0")["data"]
-          katas = katas[:MAX_KATAS]  # l'API renvoie les plus récents en premier
-
+ 
+          def remplacer(texte, nom, contenu):
+              return re.sub(
+                  rf"(<!-- {nom}:START -->).*?(<!-- {nom}:END -->)",
+                  lambda m: f"{m.group(1)}\n{contenu}\n{m.group(2)}",
+                  texte, flags=re.DOTALL)
+ 
+          def shields(t):
+              t = t.replace("-", "--").replace("_", "__").replace(" ", "_")
+              return urllib.parse.quote(t, safe="")
+ 
+          # ---------- Barre de progression ----------
+          score = get(f"{API}/users/{USER}")["ranks"]["overall"]["score"]
+          actuel, suivant = PALIERS[0], None
+          for i, palier in enumerate(PALIERS):
+              if score >= palier[1]:
+                  actuel = palier
+                  suivant = PALIERS[i + 1] if i + 1 < len(PALIERS) else None
+ 
+          if suivant:
+              pct = int((score - actuel[1]) * 100 / (suivant[1] - actuel[1]))
+              pleins = pct // 10
+              barre = "▰" * pleins + "▱" * (10 - pleins)
+              label = f"{actuel[0].upper()} → {suivant[0].upper()}"
+              message = f"{barre} {pct}%"
+              detail = f"{score} / {suivant[1]} points de rang · encore {suivant[1] - score} avant {suivant[0]}"
+          else:
+              label, message = actuel[0].upper(), "▰" * 10 + " MAX"
+              detail = f"{score} points de rang"
+ 
+          progression = (
+              '<p align="center">\n'
+              f'<img src="https://img.shields.io/badge/{shields(label)}-{shields(message)}'
+              '-0d0d0d?style=for-the-badge&labelColor=220008&color=ff1f3d" />\n'
+              f'<br/><sub>{detail}</sub>\n'
+              '</p>'
+          )
+ 
+          # ---------- Tableau des katas ----------
+          katas = get(f"{API}/users/{USER}/code-challenges/completed?page=0")["data"][:MAX_KATAS]
           lignes = ["| Kata | Niveau | Langage | Validé le |",
                     "|------|:------:|:-------:|:---------:|"]
           for k in katas:
@@ -41,26 +82,22 @@ jobs:
               except Exception:
                   rang = "?"
               langs = ", ".join(NOMS.get(l, l) for l in k["completedLanguages"])
-              date = k["completedAt"][:10]
               nom = k["name"].replace("|", "\\|")
               lignes.append(f"| [{nom}](https://www.codewars.com/kata/{k['id']}) "
-                            f"| `{rang}` | {langs} | {date} |")
-
-          bloc = "\n".join(lignes)
+                            f"| `{rang}` | {langs} | {k['completedAt'][:10]} |")
+ 
           with open("README.md", encoding="utf-8") as f:
               readme = f.read()
-          readme = re.sub(
-              r"(<!-- CODEWARS:START -->).*?(<!-- CODEWARS:END -->)",
-              lambda m: f"{m.group(1)}\n{bloc}\n{m.group(2)}",
-              readme, flags=re.DOTALL)
+          readme = remplacer(readme, "CODEWARS-PROGRESS", progression)
+          readme = remplacer(readme, "CODEWARS", "\n".join(lignes))
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(readme)
           EOF
-
+ 
       - name: Commit si quelque chose a changé
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "Mise à jour des katas Codewars"
+          git diff --cached --quiet || git commit -m "Mise à jour Codewars"
           git push
