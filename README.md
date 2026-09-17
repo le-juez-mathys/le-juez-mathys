@@ -176,11 +176,21 @@ Diplômé d'un **Master 2 Epitech**, **expert en ingénierie logicielle**.
 #### Progression vers le rang suivant
  
 <!-- CODEWARS-PROGRESS:START -->
+<p align="center">
+<img src="https://img.shields.io/badge/8_KYU_%E2%86%92_7_KYU-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1_30%25-0d0d0d?style=for-the-badge&labelColor=220008&color=ff1f3d" />
+<br/><sub>6 / 20 points de rang · encore 14 avant 7 kyu</sub>
+</p>
 <!-- CODEWARS-PROGRESS:END -->
  
 #### Dernières cibles abattues
  
 <!-- CODEWARS:START -->
+| Kata | Niveau | Langage | Validé le |
+|------|:------:|:-------:|:---------:|
+| [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | `8 kyu` | C++ | 2026-09-17 |
+| [Jenny's secret message](https://www.codewars.com/kata/55225023e1be1ec8bc000390) | `8 kyu` | C++ | 2026-09-16 |
+| [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | `8 kyu` | C++ | 2026-09-16 |
+| [Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d) | `8 kyu` | C++ | 2026-09-16 |
 <!-- CODEWARS:END -->
  
 ---
