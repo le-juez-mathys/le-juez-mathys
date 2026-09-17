@@ -1,0 +1,66 @@
+name: Mise à jour Codewars
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # tous les jours à 6h (UTC)
+  workflow_dispatch:       # bouton "Run workflow" pour lancer à la main
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Récupérer les katas et mettre à jour le README
+        run: |
+          python3 - <<'EOF'
+          import json, re, urllib.request
+
+          USER = "le-juez-mathys"
+          MAX_KATAS = 10
+          API = "https://www.codewars.com/api/v1"
+          NOMS = {"cpp": "C++", "c": "C", "python": "Python",
+                  "javascript": "JavaScript", "csharp": "C#", "rust": "Rust"}
+
+          def get(url):
+              req = urllib.request.Request(url, headers={"User-Agent": "readme-bot"})
+              with urllib.request.urlopen(req) as r:
+                  return json.load(r)
+
+          katas = get(f"{API}/users/{USER}/code-challenges/completed?page=0")["data"]
+          katas = katas[:MAX_KATAS]  # l'API renvoie les plus récents en premier
+
+          lignes = ["| Kata | Niveau | Langage | Validé le |",
+                    "|------|:------:|:-------:|:---------:|"]
+          for k in katas:
+              try:
+                  rang = get(f"{API}/code-challenges/{k['id']}")["rank"]["name"] or "beta"
+              except Exception:
+                  rang = "?"
+              langs = ", ".join(NOMS.get(l, l) for l in k["completedLanguages"])
+              date = k["completedAt"][:10]
+              nom = k["name"].replace("|", "\\|")
+              lignes.append(f"| [{nom}](https://www.codewars.com/kata/{k['id']}) "
+                            f"| `{rang}` | {langs} | {date} |")
+
+          bloc = "\n".join(lignes)
+          with open("README.md", encoding="utf-8") as f:
+              readme = f.read()
+          readme = re.sub(
+              r"(<!-- CODEWARS:START -->).*?(<!-- CODEWARS:END -->)",
+              lambda m: f"{m.group(1)}\n{bloc}\n{m.group(2)}",
+              readme, flags=re.DOTALL)
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(readme)
+          EOF
+
+      - name: Commit si quelque chose a changé
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Mise à jour des katas Codewars"
+          git push
