@@ -176,6 +176,12 @@ Diplômé d'un **Master 2 Epitech**, **expert en ingénierie logicielle**.
 #### Dernières cibles abattues
  
 <!-- CODEWARS:START -->
+| Kata | Niveau | Langage | Validé le |
+|------|:------:|:-------:|:---------:|
+| [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | `8 kyu` | C++ | 2026-09-17 |
+| [Jenny's secret message](https://www.codewars.com/kata/55225023e1be1ec8bc000390) | `8 kyu` | C++ | 2026-09-16 |
+| [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | `8 kyu` | C++ | 2026-09-16 |
+| [Convert a string to an array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d) | `8 kyu` | C++ | 2026-09-16 |
 <!-- CODEWARS:END -->
  
 ---
