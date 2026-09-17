@@ -172,6 +172,29 @@ Passionné par la création de jeux vidéo.
 </details>
 
 ---
+### ⚔️ Dojo Codewars
+
+<div align="center">
+
+<a href="https://www.codewars.com/users/le-juez-mathys">
+  <img src="https://www.codewars.com/users/le-juez-mathys/badges/large" alt="Badge Codewars" />
+</a>
+
+<br/><br/>
+
+![Rang](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fle-juez-mathys&query=%24.ranks.overall.name&label=Rang&color=lightgrey&style=for-the-badge&logo=codewars&logoColor=white)
+![Honneur](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fle-juez-mathys&query=%24.honor&label=Honneur&color=B1361E&style=for-the-badge&logo=codewars&logoColor=white)
+![Katas](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fle-juez-mathys&query=%24.codeChallenges.totalCompleted&label=Katas&color=B1361E&style=for-the-badge&logo=codewars&logoColor=white)
+![C++](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fle-juez-mathys&query=%24.ranks.languages.cpp.name&label=C%2B%2B&color=00599C&style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</div>
+
+#### 🗡️ Derniers katas validés
+
+<!-- CODEWARS:START -->
+<!-- CODEWARS:END -->
+
+---
 
 <!-- ======================== QUÊTES ======================== -->
 ## 🗒 Journal de quêtes — projets de jeux
