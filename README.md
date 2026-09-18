@@ -107,8 +107,7 @@ Diplômé d'un **Master 2 Epitech**, **expert en ingénierie logicielle**.
 <img src="https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=ffe5e9&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ffe5e9&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/CMake-0d0d0d?style=for-the-badge&logo=cmake&logoColor=ff1f3d&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=ffe5e9&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=ff1f3d&labelColor=0d0d0d" />
+
 <img src="https://img.shields.io/badge/Qt-0d0d0d?style=for-the-badge&logo=qt&logoColor=ffe5e9&labelColor=0d0d0d" />
 </p>
 ### Moteurs de jeu
@@ -122,6 +121,8 @@ Diplômé d'un **Master 2 Epitech**, **expert en ingénierie logicielle**.
 <summary><strong>▼ Armes secondaires</strong> <sub>(cliquer pour déplier)</sub></summary>
 <br/>
 <p>
+<img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=ffe5e9&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=ff1f3d&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/Lua-0d0d0d?style=flat-square&logo=lua&logoColor=ff1f3d&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/FiveM-0d0d0d?style=flat-square&logo=fivem&logoColor=ffe5e9&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=ff1f3d&labelColor=0d0d0d" />
