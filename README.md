@@ -177,8 +177,8 @@ Diplômé d'un **Master 2 Epitech**, **expert en ingénierie logicielle**.
  
 <!-- CODEWARS-PROGRESS:START -->
 <p align="center">
-<img src="https://img.shields.io/badge/8_KYU_%E2%86%92_7_KYU-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1_30%25-0d0d0d?style=for-the-badge&labelColor=220008&color=ff1f3d" />
-<br/><sub>6 / 20 points de rang · encore 14 avant 7 kyu</sub>
+<img src="https://img.shields.io/badge/8_KYU_%E2%86%92_7_KYU-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1_60%25-0d0d0d?style=for-the-badge&labelColor=220008&color=ff1f3d" />
+<br/><sub>12 / 20 points de rang · encore 8 avant 7 kyu</sub>
 </p>
 <!-- CODEWARS-PROGRESS:END -->
  
@@ -187,6 +187,9 @@ Diplômé d'un **Master 2 Epitech**, **expert en ingénierie logicielle**.
 <!-- CODEWARS:START -->
 | Kata | Niveau | Langage | Validé le |
 |------|:------:|:-------:|:---------:|
+| [Basic Mathematical Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7) | `8 kyu` | C++ | 2026-09-17 |
+| [Keep up the hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) | `8 kyu` | C++ | 2026-09-17 |
+| [Multiplication table for number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce) | `8 kyu` | C++ | 2026-09-17 |
 | [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | `8 kyu` | C++ | 2026-09-17 |
 | [Jenny's secret message](https://www.codewars.com/kata/55225023e1be1ec8bc000390) | `8 kyu` | C++ | 2026-09-16 |
 | [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | `8 kyu` | C++ | 2026-09-16 |
