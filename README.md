@@ -178,8 +178,8 @@ Diplômé d'un **Master 2 Epitech**, **expert en ingénierie logicielle**.
  
 <!-- CODEWARS-PROGRESS:START -->
 <p align="center">
-<img src="https://img.shields.io/badge/7_KYU_%E2%86%92_6_KYU-%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1_10%25-0d0d0d?style=for-the-badge&labelColor=220008&color=ff1f3d" />
-<br/><sub>26 / 76 points de rang · encore 50 avant 6 kyu</sub>
+<img src="https://img.shields.io/badge/7_KYU_%E2%86%92_6_KYU-%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1_16%25-0d0d0d?style=for-the-badge&labelColor=220008&color=ff1f3d" />
+<br/><sub>29 / 76 points de rang · encore 47 avant 6 kyu</sub>
 </p>
 <!-- CODEWARS-PROGRESS:END -->
  
@@ -188,6 +188,7 @@ Diplômé d'un **Master 2 Epitech**, **expert en ingénierie logicielle**.
 <!-- CODEWARS:START -->
 | Kata | Niveau | Langage | Validé le |
 |------|:------:|:-------:|:---------:|
+| [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035) | `7 kyu` | C++ | 2026-09-24 |
 | [Small enough? - Beginner](https://www.codewars.com/kata/57cc981a58da9e302a000214) | `7 kyu` | C++ | 2026-09-21 |
 | [Two Oldest Ages](https://www.codewars.com/kata/511f11d355fe575d2c000001) | `7 kyu` | C++ | 2026-09-21 |
 | [Century From Year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097) | `8 kyu` | C++ | 2026-09-18 |
@@ -197,7 +198,6 @@ Diplômé d'un **Master 2 Epitech**, **expert en ingénierie logicielle**.
 | [Basic Mathematical Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7) | `8 kyu` | C++ | 2026-09-17 |
 | [Keep up the hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) | `8 kyu` | C++ | 2026-09-17 |
 | [Multiplication table for number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce) | `8 kyu` | C++ | 2026-09-17 |
-| [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) | `8 kyu` | C++ | 2026-09-17 |
 <!-- CODEWARS:END -->
  
 ---
